@@ -1,1 +1,7 @@
 ADD emacs text
+Magit 20240510.1701 [>= 3.3.0.50-git], Transient 0.6.0, Git 2.44.0, Emacs 29.2, gnu/linux
+
+
+Magiter INFO:
+
+        test 
